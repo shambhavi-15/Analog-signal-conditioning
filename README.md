@@ -42,10 +42,7 @@ The final output can be used to estimate the respiration rate.
 
 ---
 
-## Circuit & Output
-(Add your circuit diagram and experimental/simulation results here)
 
----
 
 ## Applications
 - Basic health monitoring systems  
